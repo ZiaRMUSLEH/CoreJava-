@@ -74,5 +74,6 @@ public class MiniProjects {
          */
 
 
-    }//main
-}//class
+    }//main  git config --global user.password "z6136789."
+    //       git config --global user.name "ZiaRMUSLEH"
+}//class     z6136789.
