@@ -2,7 +2,7 @@ package day14loops;
 
 import java.util.Scanner;
 
-public class Loop04 {
+public class Loops04 {
     public static void main(String[] args) {
 
         //Kullanici username ve password'u girsin.
@@ -24,7 +24,6 @@ public class Loop04 {
             String username = input.next();
             System.out.println("please enter your password");
             String password = input.next();
-
             counter++;
 
             if (username.equals(validUsername) && password.equals(validPassword)) {
